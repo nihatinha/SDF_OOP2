@@ -10,6 +10,6 @@ public class SdfOop2Application {
 		SpringApplication.run(SdfOop2Application.class, args);
 	}
 public String say(){
-		return "Hi";
+		return "Hi,World";
 }
 }
