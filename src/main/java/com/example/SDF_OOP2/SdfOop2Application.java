@@ -9,5 +9,7 @@ public class SdfOop2Application {
 	public static void main(String[] args) {
 		SpringApplication.run(SdfOop2Application.class, args);
 	}
-
+public String say(){
+		return "Hi";
+}
 }
